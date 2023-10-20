@@ -2,14 +2,14 @@
 
 # Example
 
-<video src="./screen-capture (online-video-cutter.com).mp4" autoplay loop controls width="600"></video>
+### If Video is not available then, Please check the github repo for example video
 
 ```js
+npm install "typing-animation-anshal2"
+```
 
-npm install "typing-animation-anshal"
-
-import TypeAnim from "typing-animation-anshal";
-
+```js
+import TypeAnim from "typing-animation-anshal2";
 ```
 
 # **Required Paramaters**
