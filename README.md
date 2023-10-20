@@ -4,7 +4,7 @@
 
 https://github.com/anshal1/writing-animation/assets/101871035/0843b91a-e090-4da4-81c3-83f843ca3c10
 
-<video src="./screen-capture (online-video-cutter.com).mp4" autoplay loop controls width="600"></video>
+## If video is not available, then please check the github repo for example video
 
 ```js
 npm install "typing-animation-anshal2"
