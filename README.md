@@ -1,3 +1,9 @@
+### This package let's you create a Typewritter effect with just few lines of code.
+
+# Example
+
+<video src="./screen-capture (online-video-cutter.com).mp4" autoplay loop controls width="600"></video>
+
 ```js
 
 npm install "typing-animation-anshal"
