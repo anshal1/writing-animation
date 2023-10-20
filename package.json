@@ -1,0 +1,27 @@
+{
+  "name": "typing-animation-anshal",
+  "version": "1.0.0",
+  "description": "Create typing animation with just few lines of codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshal1/writing-animation.git"
+  },
+  "keywords": [
+    "Typing",
+    "Animation",
+    "Typing",
+    "Animation",
+    "Writing",
+    "Animation"
+  ],
+  "author": "Anshal Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshal1/writing-animation/issues"
+  },
+  "homepage": "https://github.com/anshal1/writing-animation#readme"
+}
